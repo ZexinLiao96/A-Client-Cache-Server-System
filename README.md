@@ -20,7 +20,7 @@ This is a tiny project I completed when studying parallel and distributed comput
 
 A sample screen-shot of the applications is as follow:
 
-![sample screenshot](assets/sample screenshot.png)
+![sample screenshot](/repository/assets/sample screenshot.png)
 
 The project is written in C#. I had only Java programming experience before undertaking this project and it only took me a week to complete it.
 
